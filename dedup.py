@@ -5,6 +5,7 @@ txts = [
     'subdomains-from-exorcism.txt',
     'subdomains-from-baidu.txt',
     'subdomains-from-haosou.txt',
+    'subdomains-from-threads.txt',
 ]
 export_to = 'subdomains-deduped.urls.txt'
 
