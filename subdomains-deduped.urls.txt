@@ -78,6 +78,7 @@ https://changemuseum.zhubai.love
 https://charitybox.zhubai.love
 https://chasays.zhubai.love
 https://cheer.zhubai.love
+https://chencibuqi.zhubai.love
 https://chichiclub.zhubai.love
 https://chimian.zhubai.love
 https://chuang.zhubai.love
@@ -312,7 +313,6 @@ https://offbeat.zhubai.love
 https://oistore.zhubai.love
 https://oklab.zhubai.love
 https://oldwinter.zhubai.love
-https://oldwinter.zhubai.love/
 https://omakase.zhubai.love
 https://omooo-android.zhubai.love
 https://onelight.zhubai.love
@@ -531,6 +531,7 @@ https://unionhome.zhubai.love
 https://universe12.zhubai.love
 https://usefulness.zhubai.love
 https://v0x07.zhubai.love
+https://variable.zhubai.love
 https://varzy.zhubai.love
 https://via.zhubai.love
 https://vivigoodenough.zhubai.love
@@ -778,6 +779,7 @@ https://yuyan.zhubai.love
 https://yuyang.zhubai.love
 https://yuying.zhubai.love
 https://ywkhzen.zhubai.love
+https://yxjxz.zhubai.love
 https://yzhu1015.zhubai.love
 https://yzww333.zhubai.love
 https://zhangqi.zhubai.love
